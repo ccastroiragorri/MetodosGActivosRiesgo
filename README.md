@@ -15,7 +15,7 @@ Los participantes tendrán acceso permanente a una página web del curso donde t
 1. Hechos estilizados de las series financieras.
 2. Identificación y estimación de modelos ARMA.
 3. Pronóstico de modelos ARMA.
-* Diapositivas.
+* [Diapositivas](https://github.com/ccastroiragorri/MetodosGActivosRiesgo/blob/main/SeriesUnivariadas.pdf).
 * Procesos generadores de datos.
 * Series Financieras.
 4. Modelos multivariados vectores autoregresivos (VAR): Estimación y análisis.
