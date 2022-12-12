@@ -7,7 +7,7 @@ Los participantes tendrán acceso permanente a una página web del curso donde t
 
 ## Preliminares
 * Instalacion de Gretl, [windows](https://gretl.sourceforge.net/win32/).
-/*Instalacion [R](https://cran.r-project.org/mirrors.html) se recomienda instalar [Rstudio](https://posit.co/downloads/).*/
+[//]: # Instalacion [R](https://cran.r-project.org/mirrors.html) se recomienda instalar [Rstudio](https://posit.co/downloads/).
 
 ## Contenido
 
