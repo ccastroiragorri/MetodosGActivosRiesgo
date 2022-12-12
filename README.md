@@ -19,7 +19,7 @@ Los participantes tendrán acceso permanente a una página web del curso donde t
 * Series Financieras: [TRM](https://github.com/ccastroiragorri/MetodosGActivosRiesgo/blob/main/TRM.gdt), [Oil](https://github.com/ccastroiragorri/MetodosGActivosRiesgo/blob/main/oil.xlsx).
 4. Modelos multivariados vectores autoregresivos (VAR): Estimación y análisis.
 * [Diapositivas](https://github.com/ccastroiragorri/MetodosGActivosRiesgo/blob/main/SeriesMultivariadas.pdf)
-* Tasas de Interes.
+* [Tasas de Interes](https://github.com/ccastroiragorri/MetodosGActivosRiesgo/blob/main/TasasCol.gdt).
 
 # Modelos estimacion y pronostico de la varianza.
 1. Estimación de Volatilidad con información diaria: GARCH.
