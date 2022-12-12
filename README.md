@@ -16,9 +16,11 @@ Los participantes tendrán acceso permanente a una página web del curso donde t
 2. Identificación y estimación de modelos ARMA.
 3. Pronóstico de modelos ARMA.
 * [Diapositivas](https://github.com/ccastroiragorri/MetodosGActivosRiesgo/blob/main/SeriesUnivariadas.pdf).
-* Procesos generadores de datos.
-* Series Financieras.
+* [Procesos generadores de datos](https://github.com/ccastroiragorri/MetodosGActivosRiesgo/blob/main/dgp.xlsx).
+* Series Financieras: [TRM](https://github.com/ccastroiragorri/MetodosGActivosRiesgo/blob/main/TRM.gdt), [Oil](https://github.com/ccastroiragorri/MetodosGActivosRiesgo/blob/main/oil.xlsx).
 4. Modelos multivariados vectores autoregresivos (VAR): Estimación y análisis.
+* [Diapositivas](https://github.com/ccastroiragorri/MetodosGActivosRiesgo/blob/main/SeriesMultivariadas.pdf)
+* Tasas de Interes.
 
 # Modelos estimacion y pronostico de la varianza.
 1. Estimación de Volatilidad con información diaria: GARCH.
@@ -30,3 +32,6 @@ Los participantes tendrán acceso permanente a una página web del curso donde t
 # Teoria de Portafolio.
 1. Modelo de portafolio de Markowitz (Media-Varianza).
 2. Modelo de Black-Litterman. 
+
+# Referencias
+* [Hyndman and Athanasopoulos. Forecasting: Principles and Practice](https://otexts.com/fpp3/)
