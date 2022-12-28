@@ -29,8 +29,9 @@ Los participantes tendrán acceso permanente a una página web del curso donde t
 5. Modelos de pronóstico para la Volatilidad.
 
 # Teoria de Portafolio.
-1. Modelo de portafolio de Markowitz (Media-Varianza).
-2. Modelo de Black-Litterman. 
+1. Preferencias de Media-Varianza. [Diaposisitivas](https://github.com/ccastroiragorri/MetodosGActivosRiesgo/blob/main/PFMV.pdf)
+2. Modelo de portafolio de Markowitz (Media-Varianza). [Diaposisitivas](https://github.com/ccastroiragorri/MetodosGActivosRiesgo/blob/main/Markovitz.pdf)
+3. Modelo de Black-Litterman. [Diaposisitivas](https://github.com/ccastroiragorri/MetodosGActivosRiesgo/blob/main/BL.pdf)
 
 # Referencias
 * [Hyndman and Athanasopoulos. Forecasting: Principles and Practice](https://otexts.com/fpp3/)
