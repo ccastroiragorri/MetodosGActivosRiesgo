@@ -24,9 +24,13 @@ Los participantes tendrán acceso permanente a una página web del curso donde t
 # Modelos estimacion y pronostico de la varianza.
 1. Estimación de Volatilidad con información diaria: GARCH.
 2. Modelos asimétricos para Volatilidad.
+* [Diapositivas](https://github.com/ccastroiragorri/MetodosGActivosRiesgo/blob/main/GARCH.pdf)
 3. Estimación de Volatilidad con información intradía: Volatilidad Realizada.
 4. Estimación de Saltos en las series financieras.
+* [Diapositivas](https://github.com/ccastroiragorri/MetodosGActivosRiesgo/blob/main/RM.pdf)
+* Ejemplo Datos Intradia.
 5. Modelos de pronóstico para la Volatilidad.
+* [Diapositivas](https://github.com/ccastroiragorri/MetodosGActivosRiesgo/blob/main/PronosticoVol.pdf)
 
 # Teoria de Portafolio.
 1. Preferencias de Media-Varianza. 
@@ -39,3 +43,5 @@ Los participantes tendrán acceso permanente a una página web del curso donde t
 
 # Referencias
 * [Hyndman and Athanasopoulos. Forecasting: Principles and Practice](https://otexts.com/fpp3/)
+* [Sheppard, K. Financial Econometrics Notes](https://www.kevinsheppard.com/files/teaching/mfe/notes/financial-econometrics-2020-2021.pdf)
+* [Empirical evidence of jump behaviour in the Colombian intraday bond market (2020)](https://ideas.repec.org/p/col/000092/018098.html)
