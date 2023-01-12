@@ -39,7 +39,7 @@ Los participantes tendrán acceso permanente a una página web del curso donde t
 * [Diapositivas](https://github.com/ccastroiragorri/MetodosGActivosRiesgo/blob/main/Markovitz.pdf)
 3. Modelo de Black-Litterman. 
 * [Diapositivas](https://github.com/ccastroiragorri/MetodosGActivosRiesgo/blob/main/BL.pdf)
-* Ejemplo Markowitz/Black-Litterman.
+* [Ejemplo Markowitz/Black-Litterman](https://github.com/ccastroiragorri/MetodosGActivosRiesgo/blob/main/OptimizacionPortafolioMV_BL.xlsx).
 
 # Referencias
 * [Hyndman and Athanasopoulos. Forecasting: Principles and Practice](https://otexts.com/fpp3/)
