@@ -28,7 +28,8 @@ Los participantes tendrán acceso permanente a una página web del curso donde t
 3. Estimación de Volatilidad con información intradía: Volatilidad Realizada.
 4. Estimación de Saltos en las series financieras.
 * [Diapositivas](https://github.com/ccastroiragorri/MetodosGActivosRiesgo/blob/main/RM.pdf)
-* Ejemplo Datos Intradia.
+* [Ejemplo Excel Datos Intradia](https://github.com/ccastroiragorri/MetodosGActivosRiesgo/blob/main/Ecopetrol.xlsx).
+* [Ejemplo Python Datos Intradia](https://nbviewer.org/github/nromerodiaz/MarketQualityParams/blob/master/JumpStatistic.ipynb).
 5. Modelos de pronóstico para la Volatilidad.
 * [Diapositivas](https://github.com/ccastroiragorri/MetodosGActivosRiesgo/blob/main/PronosticoVol.pdf)
 
