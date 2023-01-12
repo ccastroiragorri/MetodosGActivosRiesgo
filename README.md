@@ -45,3 +45,4 @@ Los participantes tendrán acceso permanente a una página web del curso donde t
 * [Hyndman and Athanasopoulos. Forecasting: Principles and Practice](https://otexts.com/fpp3/)
 * [Sheppard, K. Financial Econometrics Notes](https://www.kevinsheppard.com/files/teaching/mfe/notes/financial-econometrics-2020-2021.pdf)
 * [Empirical evidence of jump behaviour in the Colombian intraday bond market (2020)](https://ideas.repec.org/p/col/000092/018098.html)
+* [Pedersen, L.H., Babu, A., Levine, A.(2021). Enhanced Portfolio Optimization, Financial Analysts Journal Volume 77(2)](https://doi.org/10.1080/0015198X.2020.1854543)
